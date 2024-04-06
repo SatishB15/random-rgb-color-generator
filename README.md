@@ -26,9 +26,6 @@ No installation is required. Simply open the `index.html` file in a web browser 
 **Contributing:**
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
-**License:**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 **Author:**
 [Satish Birhade](https://github.com/SatishB15)
 
